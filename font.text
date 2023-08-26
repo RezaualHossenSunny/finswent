@@ -1,0 +1,1064 @@
+  font-family: 'Poppins', sans-serif;
+
+
+  @media (max-width: 320px) { 
+    .navbar-light .navbar-toggler {
+    
+            background-color: white;
+        
+    }
+    .offcanvas-body{
+        background-color: #1C1E53;
+    }
+    .navbar-nav .nav-link {
+        color: white;
+        margin: 0 111px;
+    }
+   
+    .button button {
+        margin: 1px 58px;
+        
+    }
+    #baner .baner-text h1 {
+        
+        font-size: 32px;
+        
+    }
+    #baner .baner-text p {
+      
+        font-size: 11px;
+        
+    }
+    #baner .baner-button button {
+        margin: 0 27px;
+    }
+    #baner .baner-button a {
+        margin: 11px 73px;
+    }
+    #baner .baner-button i {
+        
+        margin: 8px -63px;
+    }
+    #baner .baner-img img {
+        width: 294px;
+        height: 217.12px;
+    }
+    #work .work-text h2 {
+        
+        font-size: 36px;
+        
+    }
+    #work .work-text p {
+        
+        font-size: 11px;
+        
+        width: 287px;
+    }
+    #work .work-text a {
+        
+        font-size: 13px;
+        
+    }
+    #work .number1 h3 {
+       
+        font-size: 15px;
+       
+        margin-top: 20px;
+    }
+    #work .number1 p {
+        
+        font-size: 10px;
+        
+    }
+    #project .project-title h2 {
+        font-size: 15px;
+       margin: 0 -105px; 
+       
+    }
+    #project .project-title p {
+      
+        top: -3px;
+        right: -95px;
+        font-size: 13px;
+        
+        
+    }
+    .card-image1 img{
+        height: 190px;
+        width: 313px;
+        margin: 0 -110px;
+
+    }
+    .image3 img {
+        height: 143px;
+        width: 333px;
+        margin: 214px -176px;
+    }
+    #project .card-text1 {
+       
+        top: 211px;
+        left: -199px;
+        height: 172px;
+        width: 413px;
+        
+    }
+    #project .card-text1 h2 {
+        
+        margin-top: 10%;
+        
+    }
+    #project .card-text {
+      
+        height: 191px;
+        width: 187px;
+
+        top: 0;
+        left: -143px;
+  
+    }
+    #project .card-text h3 {
+        margin-top: 10%;
+        margin-left: 18%;
+        font-size: 10px;
+        
+        width: 145px;
+        
+    }
+    #project .card-text h4 {
+       
+        font-size: 9px;
+        
+        margin-left: 17%;
+    }
+    #project .card-text p {
+       
+        font-size: 12px;
+        
+        margin-left: 18%;
+    }
+ .last-img img {
+	height: 138px;
+	width: 349px;
+	margin: -91px -186px;
+}
+
+    #producat .producat-title h2 {
+        
+        font-size: 11px;
+        
+        margin: 0 -264px;
+       
+    }
+    #producat .box h2 {
+        
+        font-size: 15px;
+        
+    }
+    #producat .box p {
+        
+        font-size: 10px;
+    }
+    #about .about-left-text h2 {
+        font-size: 24px;
+        
+    }
+    #about .about-left-text p {
+       
+        font-size: 13px;
+        
+    }
+    #about .about-right-text h2 {
+        font-size: 16px;
+        
+    }
+    #about .about-text h5 {
+        font-size: 11px;
+    
+    }
+    #about .about-text p {
+       
+        font-size: 7px;
+        
+    }
+    #about .about-icon i {
+        padding: 8px;
+       
+    }
+    .number {
+    
+            margin: 0 -138px;
+        
+    }
+    #Frequently .f-left-text h2 {
+        font-size: 26px;
+     
+            margin: 0 -127px;
+                
+    }
+    #Frequently .f-left-text p {
+
+        font-size: 13px;
+        margin: 0 -127px;
+       
+    }
+    .number-1 {
+        margin: 0px 77px;
+    }
+    #Frequently .text h3 {
+       
+        font-size: 14px;
+        
+    }
+    #Frequently .text p {
+       
+        font-size: 10px;
+        width: 256px;
+    }
+    #from .from-left h2 {
+    
+        font-size: 22px;
+        
+    }
+    #from .from-left p {
+        font-size: 11px;
+        width: 279px;
+    }
+    #from .from-right-text h2 {
+       
+        font-size: 23px;
+        
+    }
+    #from .from-right-text p {
+       
+        font-size: 10px;
+        width: 266px;
+        
+    }
+    #from .from {
+        height: 54px;
+        width: 310px;
+      
+        margin-top: 10px;
+        margin-left: -4%;
+        
+    }
+    #from .from-button button {
+        padding: 13px 66px;
+       
+        
+        font-size: 9px;
+       
+    }
+    #from .frombaner {
+       
+        padding-top: 121px;
+        padding-bottom: 11px;
+       
+    }
+    #from .from-right-text p {
+        font-size: 7px;
+        width: 200px;
+    }
+    #bloog .bloog-title h2 {
+      
+        font-size: 20px;
+        
+    }
+     .blog-item {
+        margin: 0 -112px;
+     }
+    .blog-item img{
+        width: 315px;
+        height: 193px;
+
+    }
+    #bloog .blog-item p {
+       
+        font-size: 12px;
+        
+    }
+    #bloog .blog-item h3 {
+       
+        font-size: 13px;
+       
+    }
+    #bloog .blog-item h4 {
+        
+        font-size: 10px;
+       
+    }
+    #foter .footer-left p {
+        
+        font-size: 10px;
+        
+        margin-top: 14px;
+    }
+    #foter {
+       
+        margin: 0 -151px;
+    }
+    #foter .foter-right-text h2 {
+        
+        font-size: 23px;
+        
+        margin: 0 -34px;
+    }
+    #foter .foter-right-text p {
+        
+        font-size: 10px;
+       
+        width: 259px;
+        margin: 0 -33px;
+    }
+    #foter .foter-bottom {
+        padding: 11px 42px;
+        
+        left: 192px;
+        
+        width: 616px;
+        height: 84px;
+       ;
+        margin: 0 -41px;
+    }
+    #lastpart .las-part-left h2 {
+        font-size: 8px;
+        margin: 0 86px;
+    }
+    #lastpart .last-part-right ul li {
+      
+        font-size: 6px;
+        margin: 4px -8px;
+    }
+ }
+ @media (min-width:320px) and (max-width: 575.98px) {
+ 
+    .navbar-light .navbar-toggler {
+    
+        background-color: white;
+    
+}
+.navbar-nav .nav-link {
+	margin: 0 134px;
+}
+.button {
+	margin-right: -30px;
+    margin: 0 80px;
+}
+#baner .baner-text h1 {
+	
+	font-size: 41px;
+	
+}
+.baner-button{
+    margin: 0 72px;
+}
+
+#baner .baner-img img {
+	width: 536px;
+	
+}
+#work .work-text h2 {
+	
+	font-size: 39px;	
+}
+#work .work-text p {
+	
+	font-size: 13px;
+	
+}
+#work .work-text a {
+
+	font-size: 16px;
+	
+}
+#work .work-text {
+	color: #2405F2;
+    margin: 0 106px;
+}
+#work .number1 h3 {
+
+	font-size: 23px;
+	
+}
+#work .number1 p {
+	font-size: 11px;
+
+}
+#project .project-title h2 {
+	font-size: 17px;
+	
+}
+#project .project-title p {
+	
+	font-size: 13px;
+	
+}
+.card-image1 img {
+	height: 192px;
+	width: 385px;
+}
+.card-image2 img {
+	height: 188px;
+	width: 396px;
+	margin: 209px -193px;
+}
+
+#project .card-text {
+	
+	height: 209px;
+	width: 225px;
+	
+}
+#project .card-text1 {
+	
+	top: 207px;
+	left: -193px;
+	height: 207px;
+	width: 413px;
+	
+}
+#project .card-text h3 {
+	margin-top: 15%;
+	
+	
+}
+#project .card-text h3 {
+	
+	font-size: 15px;
+	
+	width: 158px;
+	
+}
+#project .card-text h4 {
+
+	font-size: 8px;
+	
+}
+
+
+#producat .producat-title h2 {
+	
+	font-size: 36px;
+	width: 594px;
+	margin: 0px -105px;
+	
+}
+#producat .box h2 {
+
+	font-size: 15px;
+	
+}
+#producat .box p {
+
+	font-size: 11px;
+	
+}
+#about .about-left-text h2 {
+	font-size: 21px;
+	
+}
+#about .about-left-text p {
+	
+	font-size: 12px;
+	
+}
+#about .about-right-text h2 {
+	font-size: 18px;
+	
+}
+#about .about-icon i {
+	padding: 6px;
+	
+}
+#about .about-text h5 {
+	font-size: 13px;
+
+}
+#about .about-text p {
+	
+	font-size: 9px;
+	
+}
+#Frequently .f-left-text h2 {
+	font-size: 26px;
+	
+}
+#Frequently .text h3 {
+	
+	font-size: 16px;
+	
+}
+
+#Frequently .text p {
+	
+	font-size: 11px;
+	
+	width: 234px;
+}
+#from .from-left h2 {
+	
+	font-size: 32px;
+	
+}
+#from .from-left p {
+	
+	font-size: 13px;
+	
+}
+.from-right-text {
+	margin: 0 -42px;
+}
+#from .from-right-text h2 {
+	
+	font-size: 20px;
+	
+}
+#from .from-right-text p {
+	
+	font-size: 10px;
+	
+}
+#from .from {
+	height: 50px;
+	width: 385px;
+	
+}
+#from .from-button button {
+	padding: 13px 102px;
+	
+	margin-left: 23%;
+	
+	font-size: 10px;
+	
+}
+#from .frombaner {
+	
+	padding-bottom: 9px;
+	
+}
+#from .from-button h3 {
+	
+	font-weight: 500;
+	
+	margin: 0 223px;
+	
+	
+}
+#bloog .bloog-title h2 {
+	
+	font-size: 32px;
+
+}
+#bloog .blog-item p {
+	
+	font-size: 12px;
+	
+}
+#bloog .blog-item h3 {
+	
+	font-size: 14px;
+	
+}
+#bloog .blog-item h4 {
+	
+	font-size: 11px;
+	
+}
+#foter .footer-left p {
+	
+	font-size: 10px;
+	
+}
+#foter .foter-right-text h2 {
+	font-size: 34px;
+	margin: 0 -33px;
+}
+#foter .foter-right-text p {
+	
+	font-size: 13px;
+	
+	width: 309px;
+	margin: 0 -34px;
+}
+#foter .foter-bottom {
+	padding: 17px 36px;
+	
+	left: 10px;
+	
+	width: 562px;
+	
+}
+#lastpart .las-part-left h2 {
+	
+	font-size: 15px;
+	
+	margin: 0 162px;
+}
+#lastpart .last-part-right ul li {
+	
+	padding-right: 7px;
+	
+	font-size: 12px;
+	
+}
+.number-1{
+    margin: 0 130px;
+}
+}
+@media (min-width:575.98px) and (max-width: 775.98px){
+    .baner-button {
+        margin: 0 112px;
+    }
+    .footer-left
+    {
+        margin: 0 -23px;
+    }
+    .card-image2{
+        margin: 2px 146px;
+    }
+}
+
+@media (min-width:775.98px) and (max-width: 991.98px){
+
+    .navbar-light .navbar-toggler {
+    
+        background-color: white;
+    
+}
+.baner-button{
+    margin: 0 158px;
+}
+#baner .baner-img img {
+	width: 753px;
+	
+}
+#work .work-text {
+    margin: 0 199px;
+  
+}
+#work .work-text h2 {
+	
+	font-size: 42px;
+	
+}
+#work .work-text p {
+	
+	font-size: 11px;
+	
+}
+#work .work-text a {
+	
+	font-size: 13px;
+	
+}
+#project .project-title h2 {
+	font-size: 31px;
+	
+}
+/* #project .card-img {
+	margin: 7px -44px;
+} */
+.card-image2{
+    margin: 0 145px;
+}
+#producat .producat-title h2 {
+	
+	font-size: 42px;
+	
+}
+#producat .box h2 {
+	
+	font-size: 18px;
+	
+}
+#producat .box p {
+	
+	font-size: 12px;
+
+}
+#about .about-left-text h2 {
+	font-size: 31px;
+	
+}
+#about .about-left-text p {
+	
+	font-size: 12px;
+	
+}
+#about .about-right-text h2 {
+	font-size: 19px;
+
+}
+#about .about-text h5 {
+	font-size: 14px;
+	
+}
+#about .about-text p {
+	
+	font-size: 10px;
+	
+}
+#about .about-icon i {
+	padding: 4px;
+	
+}
+#Frequently .f-left-text h2 {
+	font-size: 27px;
+	
+}
+#Frequently .f-left-text p {
+	
+	font-size: 13px;
+	
+}
+#Frequently .text h3 {
+	
+	font-size: 18px;
+	
+}
+#Frequently .text p {
+	
+	font-size: 12px;
+	
+	width: 431px;
+}
+#from .from-left h2 {
+	
+	font-size: 34px;
+	
+}
+#from .from-left p {
+	
+	font-size: 12px;
+	
+	width: 375px;
+}
+#from .from-right-text h2 {
+	
+	font-size: 28px;
+	
+}
+#from .from-right-text p {
+	
+	font-size: 14px;
+	margin: 0 98px;
+	width: 432px;
+	
+}
+#from .from {
+	height: 60px;
+	width: 413px;
+	
+	
+}
+#from .from-button button {
+	padding: 7px 94px;
+	
+	
+	margin-left: 26%;
+	margin-top: 6px;
+
+	font-size: 11px;
+	
+}
+#from .from-button h3 {
+
+	font-size: 10px;
+	
+	margin: 0 263px;
+	width: 432px;
+	margin-top: 9px;
+}
+#from .frombaner {
+
+	padding-top: 169px;
+	padding-bottom: 9px;
+	
+}
+#bloog .bloog-title h2 {
+	
+	font-size: 34px;
+	
+}
+#bloog .blog-item p {
+	
+	font-size: 11px;
+	
+}
+#bloog .blog-item h3 {
+	
+	font-size: 20px;
+	
+}
+#bloog .blog-item h4 {
+	
+	font-size: 11px;
+
+}
+#foter .foter-right-text h2 {
+	
+	font-size: 44px;
+	
+	margin: 0 -67px;
+}
+#foter .foter-right-text p {
+	
+	font-size: 13px;
+	width: 287px;
+	margin: 0 -67px;
+}
+#foter .foter-bottom {
+	
+	left: 154px;
+	
+}
+#lastpart .las-part-left h2 {
+	
+	font-size: 11px;
+	
+}
+#lastpart .last-part-right ul li {
+	padding-left: 29px;
+	
+	font-size: 13px;
+	
+	margin: -22px 8px;
+}
+/* .number-1{
+    margin: 0 203px;
+} */
+}
+
+@media (min-width:991.98px) and (max-width: 1199.98px){
+    #baner .baner-text h1 {
+      
+        font-size: 43px;
+        
+    }
+    #baner .baner-text p {
+       
+        font-size: 13px;
+        
+    }
+    #baner .baner-button button {
+        padding: 10px 45px;
+       
+    }
+    #baner .baner-button a {
+        margin: 31px;
+     
+    }
+    #baner .baner-img img {
+        width: 573px;
+        
+    }
+    #work .number1 p {
+        
+        font-size: 11px;
+        
+    }
+    #project .card-img {
+        margin: 0px -241px;
+        padding: 0px 197px;
+    }
+    .card-image2{
+        margin: 13px 201px;
+    }
+   
+    #project .card-text {
+        
+        left: 89px;
+        
+    }
+    #project .project-title h2 {
+        font-size: 26px;
+       
+    }
+    #project .card-text1 {
+      
+        left: 224px;
+        height: 294px;
+        
+        
+    }
+    #project .card-text1 h2 {
+        font-size: 20px;
+    }
+    #producat .producat-title h2 {
+       
+        font-size: 41px;
+        
+    }
+    #producat .box h2 {
+        
+        font-size: 16px;
+        
+    }
+    #producat .box p {
+        
+        font-size: 12px;
+  
+    }
+    #about .about-left-text h2 {
+        font-size: 27px;
+     
+    }
+    #about .about-left-text p {
+        
+        font-size: 12px;
+       
+        width: 275px;
+        
+    }
+    #about .about-right-text h2 {
+        font-size: 23px;
+   
+    }
+    #about .about-icon i {
+        padding: 8px;
+       
+    }
+    #Frequently .f-left-text h2 {
+        font-size: 29px;
+        
+    }
+    #Frequently .text h3 {
+      
+        font-size: 19px;
+        
+    }
+    #Frequently .text p {
+       
+        font-size: 14px;
+       
+        width: 422px;
+    }
+    #from .from-left h2 {
+       
+        font-size: 33px;
+        
+    }
+    #from .from-left p {
+        
+        font-size: 11px;
+       
+        width: 308px;
+    }
+    #from .from {
+       
+        margin-left: -6%;
+        
+    }
+    #from .from-button button {
+        padding: 9px 124px;
+       
+        margin-left: -2%;
+     
+        font-size: 18px;
+        
+    }
+
+ 
+    .blog-item img {
+        width: 276px;
+        height: 166px;
+    }
+    #bloog .bloog-title h2 {
+      
+        font-size: 28px;
+        
+    }
+    #bloog .blog-item h3 {
+     
+        font-size: 16px;
+       
+    }
+    #bloog .blog-item p {
+        
+        font-size: 11px;
+        
+    }
+    #bloog .blog-item h4 {
+        
+        font-size: 11px;
+        
+    }
+    #lastpart .last-part-right ul li {
+        padding-left: 4px;
+        padding-right: -1px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        font-size: 13px;
+        color: #282938;
+    }
+    
+
+    
+}
+@media (min-width:1199.98px) and (max-width: 1400px){
+    #baner .baner-text h1 {
+        
+        font-size: 47px;
+        
+    }
+    #baner .baner-text p {
+        
+        font-size: 14px;
+        
+    }
+    #baner .baner-button button {
+        padding: 15px 49px;
+       
+    }
+    .card-image1{
+        
+            margin: 0 -100px;
+    }
+    .card-image2{
+     
+        margin: 0px -24px;
+    }
+    .card-img img{
+        height: 623px;
+        width: 621px;
+      
+    }
+    .image3 img {
+        height: 297px;
+         width: 664px;
+    }
+    #project .card-text h3 {
+        
+        font-size: 16px;
+        
+    }
+    #project .card-text h4 {
+        
+        font-size: 12px;
+        
+    }
+    #project .card-text p {
+      
+        font-size: 13px;
+      
+    }
+    #project .card-text1 {
+      
+        left: 15px;
+        
+    }
+    #producat .producat-title h2 {
+        
+        font-size: 44px;
+        
+    }
+    #from .from-left h2 {
+        
+        font-size: 48px;
+       
+    }
+    .blog-item img{
+        height: 204px;
+width: 340px;
+    }
+}

@@ -1,0 +1,870 @@
+@media (min-width: 320px) and (max-width:575.98px) { 
+    .navbar-light .navbar-toggler {
+        background: wheat;
+        margin-left: 120px;
+    }
+   
+    .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+        text-align: center;
+    }  
+    #baner .baner-text h1 {
+       
+        font-size: 28px;
+       
+    }
+    #baner .baner-text p {
+       
+        font-size: 13px;
+        
+    }
+    .button button {
+     margin-left: 70px;
+    }
+    #baner .baner-button button {
+        padding: 12px 25px;
+       
+        
+    }
+    #baner .baner-button a {
+       
+        font-size: 13px;
+        
+    }
+    #baner .baner-img img {
+        width: 316px;
+        height: 230.12px;
+    }
+    #work .work-text h2 {
+    
+        font-size: 31px;
+        
+    }
+    #work .work-text p {
+        
+        font-size: 11px;
+       
+        width: 305px;
+    }
+    #work .number1 h3 {
+       
+        font-size: 19px;
+       
+    }
+    #work .number1 p {
+     
+        font-size: 11px;
+       
+    }
+    #project .project-title p {
+      
+        right: -107px;
+        font-size: 13px;
+       
+    }
+    #project .project-title h2 {
+        font-size: 16px;
+        margin: 0 -102px;
+    }
+    .card-img img{
+        height: 325px;
+        width: 333px;
+        margin-top: 10px;
+    }
+    #project .card-text {
+        
+        height: 349px;
+        width: 234px;
+      
+    }
+    #project .card-text h3 {
+        margin-top: 42%;
+        
+        font-size: 16px;
+       
+        width: 225px;
+       
+    }
+    #project .card-text h4 {
+       
+        font-size: 11px;
+       
+    }
+    #project .card-text p {
+        
+        font-size: 12px;
+        
+    }
+.card-imges1 img{
+    height: 194px;
+    width: 342px;
+    margin: 0 -87px;
+}
+
+#project .card-text {
+	height: 198px;
+    margin: 0 -94px;
+	
+}
+#project .card-text1 {
+	
+	left: -175px;
+	height: 142px;
+	width: 346px;
+	
+	
+}
+#project .card-text1 h2 {
+	
+	line-height: 36px;
+	margin-top: 9%;
+	margin-left: 10%;
+	width: 313px;
+}
+.card-img img{
+    height: 100px;
+    width: 100px;
+}
+.card-image2{
+    margin-top: 215px;
+}
+.card-img img {
+	height: 141px;
+	width: 336px;
+    margin: 0 -179px;
+}
+.card-img1  img{
+    height: 141px;
+	width: 336px;
+    margin: 0 -179px;  
+}
+#project .card-text h3 {
+	margin-top: 18%;
+	font-size: 11px;
+	width: 211px;
+}
+#project .card-text h4 {
+	font-size: 8px;
+}
+#producat .producat-title h2 {
+
+	font-size: 22px;
+	
+	width: 316px;
+	margin: 0 -102px;
+	
+}
+#producat .box h2 {
+	
+	font-size: 14px;
+	
+}
+#producat .box p {
+	
+	font-size: 10px;
+	
+}
+.box img{
+    margin: 0 20px;
+}
+#about .about-left-text h2 {
+	font-size: 25px;
+	
+	width: 276px;
+}
+#about .about-left-text p {
+	
+	font-size: 12px;
+	width: 297px;
+	
+}
+#about .about-right-text h2 {
+	font-size: 17px;
+	
+}
+#about .about-text h5 {
+	font-size: 13px;
+	
+ }
+ #about .about-icon i {
+	padding: 8px;
+
+}
+#Frequently .f-left-text h2 {
+	font-size: 18px;
+	
+}
+#Frequently .f-left-text p {
+	
+	font-size: 11px;
+    margin: 5px -23px;
+	
+}
+.number {
+    margin: 0 -137px;
+}
+#Frequently .text h3 {
+	
+	font-size: 18px;
+	
+}
+#Frequently .text p {
+	
+	font-size: 13px;
+	
+	width: 286px;
+}
+#from .from-left h2 {
+
+	font-size: 34px;
+	
+}
+#from .from-left p {
+	
+	font-size: 12px;
+
+	width: 309px;
+}
+#from .from-right-text h2 {
+	
+	font-size: 23px;
+	
+}
+#from .from-right-text p {
+	
+	font-size: 10px;
+	width: 339px;
+	
+}
+#from .from {
+	height: 66px;
+	width: 336px;
+	margin: 3px -10px;
+}
+#from .from-button button {
+	padding: 7px 91px;
+	
+	margin-left: 2%;
+	margin-top: 20px;
+	
+	font-size: 15px;
+	
+}
+#from .from-button h3 {
+	
+	font-size: 12px;
+	
+	margin: 1px 88px;
+	width: 432px;
+	margin-top: 20px;
+}
+#bloog .bloog-title h2 {
+	margin: 0 -97px;
+	font-size: 28px;
+	
+}
+.blog-item img {
+	height: 147px;
+	width: 317px;
+    margin: 0 -100px;
+}
+#bloog .blog-item h3 {
+
+	font-size: 10px;
+    margin: 0 -99px;
+	
+}
+#bloog .blog-item p {
+	
+	font-size: 9px;
+	
+	margin-top: 7px;
+    margin: 0 -99px;
+}
+#bloog .blog-item h4 {
+	
+	font-size: 11px;
+	
+}
+.footer-left img{
+    margin: 0 -99px;
+}
+#foter .footer-left p {
+	
+	font-size: 9px;
+	
+	margin-top: 20px;
+    margin: 12px -95px;
+}
+#foter .foter-right-text h2 {
+	margin: 0 -107px;
+	font-size: 33px;
+	
+}
+#foter .foter-right-text p {
+	margin: 1px -107px;
+	font-size: 11px;
+	
+	width: 171px;
+}
+#foter .foter-right-text i {
+	color: #E5E5E5;
+	margin: 11px -21px;
+}
+#foter .foter-bottom {
+	
+	left: 0px;
+	
+	
+}
+#foter .left-text h2 {
+	
+	font-size: 11px;
+	
+}
+#foter .left-text p {
+
+	font-size: 10px;
+
+}
+#foter .right-text h2 {
+	
+	font-size: 12px;
+	
+}
+#foter .right-text p {
+
+	font-size: 9px;
+	
+}
+#lastpart .las-part-left h2 {
+	font-size: 9px;
+	margin: 3px 76px;
+}
+#lastpart .last-part-right ul li {
+
+	font-size: 7px;
+
+}
+.last-part-right {
+	margin: 0 -80px;
+}
+
+}
+
+@media (min-width: 575.98px) and (max-width:767.98px){
+    .navbar-light .navbar-toggler {
+        background-color: white;
+    }
+    #baner .baner-text h1 {
+      
+        font-size: 40px;
+       
+    }
+    #baner .baner-text p {
+        
+        font-size: 13px;
+      
+    }
+    #baner .baner-button button {
+        margin: 0 29px;
+    }
+    #baner .baner-img img {
+        width: 533px;
+       
+    }
+    #work .work-text h2 {
+    
+        font-size: 38px;
+       
+    }
+    #work .work-text p {
+      
+        font-size: 12px;
+       
+    }
+    #work .work-text a {
+      
+        font-size: 13px;
+        
+    }
+    #work .number1 h3 {
+       
+        font-size: 22px;
+        
+    }
+    #work .number1 p {
+   
+        font-size: 12px;
+        
+    }
+    #project .project-title h2 {
+        font-size: 19px;
+       
+    }
+    .card-image2{
+        margin-top: 350px;
+    }
+
+
+    .card-imges1 img {
+        height: 307px;
+        width: 406px;
+    }
+    #project .card-text {
+        
+        height: 308px;
+        
+       
+    }
+    #project .card-text h3 {
+        margin-top: 17%;
+        
+        
+    }
+    .card-image2 img{
+        height: 307px;
+        width: 406px;
+        margin: 0 -249px;
+    }
+    #project .card-text1 {
+        
+        left: -250px;
+       
+    }
+    #producat .producat-title h2 {
+        
+        font-size: 26px;
+        
+        width: 429px;
+        
+        line-height: 54px;
+     
+    }
+    
+    #producat .box h2 {
+      
+        font-size: 18px;
+        
+    }
+    #producat .box p {
+        
+        font-size: 13px;
+        
+    }
+    #about .about-left-text h2 {
+        font-size: 29px;
+        
+    }
+    #about .about-right-text h2 {
+        font-size: 23px;
+      
+    }
+    #about .about-icon i {
+        padding: 9px;
+       
+    }
+    #Frequently .f-left-text h2 {
+        font-size: 30px;
+        
+    }
+    #Frequently .text h3 {
+       
+        font-size: 17px;
+       
+    }
+    #Frequently .text p {
+  
+        font-size: 11px;
+       
+        width: 288px;
+    }
+    #from .from-left h2 {
+      
+        font-size: 40px;
+        
+    }
+    #from .from-left p {
+        
+        font-size: 13px;
+       
+        
+    }
+    #from .from-right-text h2 {
+     
+        font-size: 27px;
+        
+        margin-left: 31%;
+    }
+    #from .from-right-text p {
+      
+        font-size: 14px;
+       
+    }
+    #from .from {
+     
+        margin-left: 6%;
+       
+    }
+    #from .from-button button {
+       
+        margin-left: 8%;
+        
+        font-size: 13px;
+      
+    }
+    #from .from-button h3 {
+        
+        font-size: 14px;
+        margin: 4px 164px;
+        
+    }
+    #bloog .blog-item h3 {
+        
+        font-size: 19px;
+        
+    }
+    #foter .footer-left p {
+        
+        font-size: 13px;
+       
+    }
+    #foter .foter-right-text h2 {
+        margin: 0 -31px;
+        font-size: 40px;
+        
+    }
+    #foter .foter-right-text p {
+        margin: 0 -32px;
+        font-size: 13px;
+       
+    }
+    #foter .foter-bottom {
+        
+        left: 79px;
+        
+    }
+    #lastpart .las-part-left h2 {
+        margin: 0 132px;
+    }
+    .last-part-right {
+        margin: 0 -55px;
+    }
+}
+
+@media (min-width: 767.98px) and (max-width:991.98px){
+    .navbar-light .navbar-toggler {
+        background-color: cornsilk;
+    }
+    #baner .baner-text h1 {
+
+        font-size: 48px;
+       
+    }
+    #baner .baner-button button {
+        margin: 0 76px;
+    }
+    #project .project-title h2 {
+        font-size: 25px;
+        
+    }
+    .card-image2{
+margin-top: 350px;
+    }
+
+    .card-imges1 img {
+        height: 303px;
+        width: 616px;
+    }
+    #project .card-text {
+      
+        height: 305px;
+       
+       
+    }
+    #project .card-text h3 {
+        margin-top: 21%;
+      
+    }
+    .card-img {
+        margin: 0 -205px;
+    }
+    #producat .producat-title h2 {
+       
+        font-size: 40px;
+      
+    }
+    #producat .box p {
+       
+        font-size: 15px;
+        
+    }
+    #about .about-left-text h2 {
+        font-size: 29px;
+      
+    }
+    #about .about-right-text h2 {
+        font-size: 23px;
+        
+    }
+    #about .about-icon i {
+        padding: 8px;
+    
+    }
+    #Frequently .text h3 {
+        
+        font-size: 18px;
+       
+    }
+    #Frequently .text p {
+        
+        font-size: 15px;
+       
+        width: 381px;
+    }
+    #from .from-left h2 {
+        
+        font-size: 46px;
+        
+    }
+    #from .from-right-text h2 {
+        margin: 0 200px;
+    }
+    #foter .foter-right-text h2 {
+        margin: 0 -51px;
+    }
+    #foter .foter-right-text p {
+        margin: 0 -51px;
+    }
+    #lastpart .las-part-left h2 {
+        margin: 0 221px;
+    }
+}
+@media (min-width: 991.98px) and (max-width:1199.98px){
+    #baner .baner-text h1 {
+     
+        font-size: 39px;
+     
+    }
+    #baner .baner-text p {
+       
+        font-size: 13px;
+        
+    }
+    #baner .baner-img img {
+        width: 490px;
+       
+    }
+    #work .number1 p {
+   
+        font-size: 12px;
+        
+    }
+    #project .project-title h2 {
+        font-size: 32px;
+      
+    }
+    .card-imges1 img {
+        height: 500px;
+        width: 500px;
+        margin: 0 -99px;
+    }
+    .card-image2 img {
+        height: 240px;
+        width: 500px;
+        margin: 0 -135px;
+    }
+    #project .card-text {
+      
+        height: 499px;
+        left: -104px;
+     
+    }
+    #project .card-text h3 {
+        margin-top: 43%;
+       
+        font-size: 20px;
+    }
+    #project .card-text h4 {
+      
+        font-size: 11px;
+       
+    }
+    #project .card-text1 {
+       
+        left: -124px;
+        height: 239px;
+        width: 515px;
+      
+    }
+    #project .card-text1 h2 {
+       
+        margin-top: 12%;
+       
+    }
+    #producat .producat-title h2 {
+    
+        font-size: 40px;
+      
+    }
+    #producat .box h2 {
+       
+        font-size: 20px;
+        
+    }
+    #producat .box p {
+    
+        font-size: 12px;
+        
+    }
+    #about .about-left-text h2 {
+        font-size: 34px;
+    
+    }
+    #about .about-left-text p {
+ 
+        font-size: 13px;
+     
+        width: 241px;
+      
+    }
+    #about .about-right-text h2 {
+        font-size: 23px;
+       
+    }
+    #about .about-icon i {
+        padding: 8px;
+       
+    }
+    #Frequently .f-left-text h2 {
+        font-size: 27px;
+       
+    }
+    #Frequently .text h3 {
+        
+        font-size: 19px;
+       
+    }
+    #Frequently .text p {
+        
+        font-size: 15px;
+        width: 352px;
+    }
+    #from .frombaner {
+ 
+        padding-top: 166px;
+        padding-bottom: 42px;
+   
+    }
+    #from .from-left h2 {
+       
+        font-size: 29px;
+      
+    }
+    #from .from-left p {
+   
+        font-size: 12px;
+        width: 323px;
+    }
+    #from .from-right-text h2 {
+      
+        font-size: 24px;
+      
+    }
+    #from .from-right-text p {
+    
+        font-size: 11px;
+   
+    }
+    #from .from {
+       
+        margin-left: -3%;
+    }
+    #from .from-button button {
+        padding: 14px 130px;
+      
+        margin-left: -1%;
+      
+        font-size: 18px;
+       
+    }
+    #from .from-button h3 {
+        margin: 9px 105px;
+        font-size: 13px;
+        
+    }
+    #bloog .bloog-title h2 {
+        
+        font-size: 33px;
+      
+    }
+    .blog-item img {
+        height: 144px;
+        width: 255px;
+    }
+    #bloog .blog-item h3 {
+        
+        font-size: 16px;
+       
+    }
+    #bloog .blog-item p {
+       
+        font-size: 11px;
+     
+        
+    }
+    #bloog .blog-item h4 {
+       
+        font-size: 12px;
+     
+    }
+    #lastpart .last-part-right ul li {
+        padding-left: 7px;
+        padding-right: 9px;
+       
+        font-size: 13px;
+       
+    }
+}
+
+@media (min-width: 1199.98px) and (max-width:1400px){
+    #baner .baner-img img {
+        width: 625px;
+       
+    }
+    #project .project-title h2 {
+        font-size: 29px;
+       
+    }
+    .card-image1 img {
+        height: 614px;
+        width: 667px;
+    }
+    #project .card-text {
+      
+        height: 616px;
+        
+        
+    }
+    #Frequently .text p {
+       
+        width: 527px;
+    }
+    #from .from-right-text p {
+       
+            margin: 0 78px;
+    }
+    .blog-item img{
+        height: 300px;
+        width: 350px;
+    }
+    #foter .foter-right-text {
+        margin-left: 47%;
+    }
+    #lastpart .last-part-right ul li {
+     
+        font-size: 15px;
+       
+    }
+}
